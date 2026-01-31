@@ -46,13 +46,7 @@ Focuses on team-level performance and cost efficiency.
 
 ---
 
-## 🎨 Design System & UI/UX
-- **Modern Aesthetics**: Premium Dark Mode UI with Glassmorphism effects.
-- **Custom Backgrounds**: Professionally designed layouts (`page2_bg_pro_with_title.png`) with designated visual slots.
-- **Emoji-Driven Design**: Uses modern icons (📊, 💠, 💰) in all titles and labels for a mobile-first, high-end feel.
-- **Interactivity**: Fully synced slicers (Month & Department) allowing cross-page filtering.
 
----
 
 ## 📂 File Structure
 - `app.ipynb`: Core Python analytical notebook.
@@ -63,3 +57,4 @@ Focuses on team-level performance and cost efficiency.
 
 ---
 *Developed for Zenvy Payroll SaaS - Strategic Workforce Analytics.*
+
